@@ -1,2 +1,6 @@
 # 100-Days-Of-Python-Code-Angela-Yu-
-This repository will contain all the projects I made following The course 100 Days of Python Code By Angela Yu.
+This repo contains my daily projects from the "100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu.
+
+Each folder contains the code and files from a specific day's project.
+
+🚧 Still in progress.
