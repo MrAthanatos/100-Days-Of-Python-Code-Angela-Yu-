@@ -1,0 +1,5 @@
+# Project Name: Band Name Generator.
+city = (input("What is the name of the city you grew up in? "))
+Animal = (input("What is the name of your favorite animal? "))
+print(city +" "+ Animal+'!!!')
+
